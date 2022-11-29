@@ -7,7 +7,7 @@
 ## [Project 1: OCR on Danish Handball Match Reports](Handball_Match_Report_with_PaddleOCR.ipynb)
 This is a project description
 
-<img src="handball_extract.png" alt=" " width="500"/>
+<img src="handball_extract.png" alt=" " width="600"/>
 
 - info 1
 - info 2
