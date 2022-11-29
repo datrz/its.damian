@@ -4,10 +4,19 @@
 
 # Projects
 
-## [Project X: OCR on Danish Handball Match Reports]("https://github.com/datrz/its.damian/blob/main/Handball_Match_Report_with_PaddleOCR.ipynb")
+## [Project 1: OCR on Danish Handball Match Reports]("https://github.com/datrz/its.damian/blob/main/Handball_Match_Report_with_PaddleOCR.ipynb")
 This is a project description
 
 <img src="handball_extract.png" alt=" " width="600"/>
+
+- info 1
+- info 2
+- info 3
+
+## [Project 2: CNN for 10 class images]("https://github.com/datrz/its.damian/blob/main/Assignment_cnn_Best_Score.ipynb")
+This is a project description
+
+<img src="CNN_exercise.png" alt=" " width="600"/>
 
 - info 1
 - info 2
