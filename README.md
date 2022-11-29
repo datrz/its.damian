@@ -16,19 +16,23 @@ The project consisted of:
 - Testing it on a new data
 
 ## [Project 2: OCR on Danish Handball Match Reports](Handball_Match_Report_with_PaddleOCR.ipynb)
-This is a project description
+The purpose of the project was to investigate a possibility of automatical reading of the Danish Handball League Match Reports in order to transfer them into a DataFrame at the later stage of the project. The data would be used then to create a Dashboard, summarizing different parameters as well as investigated in terms of building useful Machine Learning models.
 
 <img src="handball_extract.png" alt=" " width="600"/>
 
-- info 1
-- info 2
-- info 3
+The project involved
+- Getting familiar with Paddle OCR library
+- Fitting Paddle OCR models to the example dataset
+- Verifying accuracy of prediction
+- Annotating the predictions on the pictures for better evaluation of the effectiveness of the model
 
 ## [Project 3: Complex CNN for recognition of images of 10 classes](Assignment_cnn_Best_Score.ipynb)
-This is a project description
+In this assignment from Applied Machine Learning course, I needed to develop a convolutional neural network to predict values in a classification problem with 10 classes. The images have shape 96x96 and are in color. When it was done, I needed to submit the results on the Kaggle webpage for the in class competition. I could submit 5 times every day, so you can experiment with different infrastructures. I scored 1st place in this competition, out of 14 competing teams.
 
 <img src="CNN_exercise.png" alt=" " width="500"/>
 
-- info 1
-- info 2
-- info 3
+The assignment involved:
+- Getting familiar with the dataset
+- Testing various model architecures
+- Evaluating what parameters are helping the most when tuning the model
+- Augumenting the images, as provided dataset challenging
