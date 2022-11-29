@@ -13,7 +13,16 @@ This is a project description
 - info 2
 - info 3
 
-## [Project 2: CNN for 10 class images](Assignment_cnn_Best_Score.ipynb)
+## [Project 2: CNN on the Pneumonia X Ray images](CNN_on_Pneumonia_Xrays.ipynb)
+This is a project description
+
+<img src="handball_extract.png" alt=" " width="600"/>
+
+- info 1
+- info 2
+- info 3
+
+## [Project 3: CNN for 10 class images](Assignment_cnn_Best_Score.ipynb)
 This is a project description
 
 <img src="CNN_exercise.png" alt=" " width="600"/>
