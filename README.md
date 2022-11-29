@@ -16,7 +16,7 @@ This is a project description
 ## [Project 2: CNN on the Pneumonia X Ray images](CNN_on_Pneumonia_Xrays.ipynb)
 This is a project description
 
-<img src="handball_extract.png" alt=" " width="600"/>
+<img src="fig5_predictions_on_test_set.png" alt=" " width="600"/>
 
 - info 1
 - info 2
