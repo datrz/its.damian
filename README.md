@@ -28,7 +28,7 @@ The project involved
 - Verifying accuracy of prediction
 - Annotating the predictions on the pictures for better evaluation of the effectiveness of the model
 
-## [Project 3: Complex CNN for recognition of images of 10 classes](Assignment_cnn_Best_Score.ipynb)
+## [Project 3: Tricky CNN for recognition of images of 10 classes](Assignment_cnn_Best_Score.ipynb)
 In this assignment from Applied Machine Learning course, I needed to develop a convolutional neural network to predict values in a classification problem with 10 classes. The images have shape 96x96 and are in color. When it was done, I needed to submit the results on the Kaggle webpage for the in class competition. I could submit 5 times every day, so you can experiment with different infrastructures. I scored 1st place in this competition, out of 14 competing teams.
 
 <img src="CNN_exercise.png" alt=" " width="500"/>
