@@ -7,7 +7,7 @@
 ## [Project 1: OCR on Danish Handball Match Reports](Handball_Match_Report_with_PaddleOCR.ipynb)
 This is a project description
 
-<img src="handball_extract.png" alt=" " width="600"/>
+<img src="handball_extract.png" alt=" " width="500"/>
 
 - info 1
 - info 2
@@ -16,16 +16,16 @@ This is a project description
 ## [Project 2: CNN on the Pneumonia X Ray images](CNN_on_Pneumonia_Xrays.ipynb)
 This is a project description
 
-<img src="fig5_predictions_on_test_set.png" alt=" " width="600"/>
+<img src="fig5_predictions_on_test_set.png" alt=" " width="500"/>
 
 - info 1
 - info 2
 - info 3
 
-## [Project 3: CNN for 10 class images](Assignment_cnn_Best_Score.ipynb)
+## [Project 3: Complex CNN for recognition of images of 10 classes](Assignment_cnn_Best_Score.ipynb)
 This is a project description
 
-<img src="CNN_exercise.png" alt=" " width="600"/>
+<img src="CNN_exercise.png" alt=" " width="500"/>
 
 - info 1
 - info 2
