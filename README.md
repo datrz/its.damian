@@ -1,3 +1,3 @@
-![alt text](https://github.com/datrz/portfolio/images/header.png)
+![alt text](https://github.com/datrz/portfolio/blob/main/header (1).png)
 
 # Projects
