@@ -1,3 +1,3 @@
-![alt text](https://github.com/datrz/portfolio/blob/main/header.png?raw=true)
+![alt text](header.png)
 
 # Projects
