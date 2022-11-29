@@ -4,6 +4,8 @@
 
 :telephone_receiver: +45 71 48 56 62 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :envelope: [damiantrzc@gmail.com](mailto:damiantrzc@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :link: [LinkedIn]("https://www.linkedin.com/in/trzcinskidamian/")
 
+Welcome to my Portfolio GitHub Page. You will find here the projects I have worked on in the past few months, together with a detailed explanation and the code. <b>The page is currently under development!</b> More projects will be posted soon!
+
 ## [Project 1: CNN on the Pneumonia X Ray images](CNN_on_Pneumonia_Xrays.ipynb)
 The purpose of this project was to develop an effective classification model, that will predict whether a patient should be diagnosed with Pneumonia or not, based on X-Ray images of their chest. I have built a Convolutional Neural Network, that achieved 92% accuracy on the new test set and scored 2nd place during the Deep Learning course, out of 11 groups. You can explore the code, following the link attached in the headline.
 
