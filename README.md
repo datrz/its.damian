@@ -6,7 +6,8 @@
 
 Welcome to my Portfolio GitHub Page. You will find here the projects I have worked on in the past few months, together with a detailed explanation and the code. <b>The page is currently under development!</b> More projects will be posted soon!
 
-## [Full list of projects can be found here!](https://datrz.github.io/its.damian/full_list.html)
+## [📂 Full list of projects can be found here! 📂](https://datrz.github.io/its.damian/full_list.html)
+Below you can find brief into to selected projects
 
 ## [Project 1: CNN on the Pneumonia X Ray images](https://github.com/datrz/its.damian/blob/main/CNN_on_Pneumonia_Xrays.ipynb)
 The purpose of this project was to develop an effective classification model, that will predict whether a patient should be diagnosed with Pneumonia or not, based on X-Ray images of their chest. I have built a Convolutional Neural Network, that achieved 92% accuracy on the new test set and scored 2nd place during the Deep Learning course, out of 11 groups. You can explore the code, following the link attached in the headline.
