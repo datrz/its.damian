@@ -19,6 +19,10 @@ To be covered
 
 ## R
 To be covered
+* Classification model predicting High Value Properties using Linear Regression
+  - [Project Report](https://datrz.github.io/its.damian/project_report_pdf.pdf)
+  - [Code](https://datrz.github.io/its.damian/project_code.pdf)
+
 
 ## JavaScript / GAQL / Google Ads Scripts
 To be covered
