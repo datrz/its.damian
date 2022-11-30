@@ -2,7 +2,7 @@
 
 ![](headline.png)
 
-<b>[:arrow_left: BACK TO MAIN PAGE](https://datrz.github.io/its.damian/)</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :envelope: [damiantrzc@gmail.com](mailto:damiantrzc@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :link: [LinkedIn](https://www.linkedin.com/in/trzcinskidamian/)
+<b>[:arrow_left: BACK TO MAIN PAGE](https://datrz.github.io/its.damian/)</b>
 
 ## PYTHON
 ### Neural Networks
