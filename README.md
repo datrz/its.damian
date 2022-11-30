@@ -6,11 +6,6 @@
 
 Welcome to my Portfolio GitHub Page. You will find here the projects I have worked on in the past few months, together with a detailed explanation and the code. <b>The page is currently under development!</b> More projects will be posted soon!
 
-- [Portfolio](#portfolio)
-  * [[Project 1: CNN on the Pneumonia X Ray images](https://github.com/datrz/its.damian/blob/main/CNN_on_Pneumonia_Xrays.ipynb)](#-project-1--cnn-on-the-pneumonia-x-ray-images--https---githubcom-datrz-itsdamian-blob-main-cnn-on-pneumonia-xraysipynb-)
-  * [[Project 2: OCR on Danish Handball Match Reports](https://github.com/datrz/its.damian/blob/main/Handball_Match_Report_with_PaddleOCR.ipynb)](#-project-2--ocr-on-danish-handball-match-reports--https---githubcom-datrz-itsdamian-blob-main-handball-match-report-with-paddleocripynb-)
-  * [[Project 3: CNN for recognition of tricky images with 10 classes](https://github.com/datrz/its.damian/blob/main/Assignment_cnn_Best_Score.ipynb)](#-project-3--cnn-for-recognition-of-tricky-images-with-10-classes--https---githubcom-datrz-itsdamian-blob-main-assignment-cnn-best-scoreipynb-)
-
 ## [Project 1: CNN on the Pneumonia X Ray images](https://github.com/datrz/its.damian/blob/main/CNN_on_Pneumonia_Xrays.ipynb)
 The purpose of this project was to develop an effective classification model, that will predict whether a patient should be diagnosed with Pneumonia or not, based on X-Ray images of their chest. I have built a Convolutional Neural Network, that achieved 92% accuracy on the new test set and scored 2nd place during the Deep Learning course, out of 11 groups. You can explore the code, following the link attached in the headline.
 
