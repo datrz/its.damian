@@ -13,6 +13,7 @@
 * [OCR on Danish Handball Match Reports](https://github.com/datrz/its.damian/blob/main/Handball_Match_Report_with_PaddleOCR.ipynb)
 
 ### Other Python Projects
+* [Custom Superliga Dashboard in Streamlit](https://danish-football-league.streamlit.app/)
 
 ## SQL
 To be covered
