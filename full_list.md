@@ -12,8 +12,10 @@
 ### OCR
 * [OCR on Danish Handball Match Reports](https://github.com/datrz/its.damian/blob/main/Handball_Match_Report_with_PaddleOCR.ipynb)
 
-### Other Python Projects
+### Streamlit Apps / Dashboards in Python
 * [Custom Superliga Dashboard in Streamlit](https://danish-football-league.streamlit.app/)
+* [Bandim Health Project routing app (inspired by CVRP)](https://bandim-routing.streamlit.app/)
+* * [DEMO VIDEO](https://datrz.github.io/its.damian/Screen%20Recording%202023-06-18%20at%2018.41.10.mp4)
 
 ## SQL
 To be covered
